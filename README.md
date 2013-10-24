@@ -3,7 +3,7 @@ ScarlettSDK-CSharp
 
 Usage:
 
-  var EmotionsSessionParameters = SessionParameters.Create().WithDataFormat(new PCMFormat(8000, 16, 1));
+  var EmotionsSessionParameters = SessionParameters.Create().WithDataFormat(new WAVFormat());
 
   var session = new EmotionsAnalyzer().InitializeSession(EmotionsSessionParameters);
             
