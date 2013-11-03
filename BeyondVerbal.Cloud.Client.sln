@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondVerbal.Cloud.SDK", "BeyondVerbal.Cloud.SDK\BeyondVerbal.Cloud.SDK.csproj", "{5B37BB47-E79B-4A00-8B3C-40DEF83CC180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondVerbal.Cloud.SDK.Sample", "BeyondVerbal.Cloud.SDK.Sample\BeyondVerbal.Cloud.SDK.Sample.csproj", "{4A3F0B9A-C696-4468-847F-80531DE9A008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B37BB47-E79B-4A00-8B3C-40DEF83CC180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B37BB47-E79B-4A00-8B3C-40DEF83CC180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B37BB47-E79B-4A00-8B3C-40DEF83CC180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B37BB47-E79B-4A00-8B3C-40DEF83CC180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3F0B9A-C696-4468-847F-80531DE9A008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3F0B9A-C696-4468-847F-80531DE9A008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3F0B9A-C696-4468-847F-80531DE9A008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3F0B9A-C696-4468-847F-80531DE9A008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,156 @@
+{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 12600,
+      "analysis": {
+        "TemperValue": {
+          "value": 18.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Repressed or stressful desires and dreams.",
+            "Secondary": "Communication difficulties. Struggle to express desires."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "self control",
+            "Secondary": "inferiority"
+          }
+        }
+      }
+    }
+  ]
+}{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 12600,
+      "analysis": {
+        "TemperValue": {
+          "value": 19.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Repressed or stressful desires and dreams.",
+            "Secondary": "Communication difficulties. Struggle to express desires."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "self control",
+            "Secondary": "inferiority"
+          }
+        }
+      }
+    }
+  ]
+}{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 12600,
+      "analysis": {
+        "TemperValue": {
+          "value": 18.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Repressed or stressful desires and dreams.",
+            "Secondary": "Communication difficulties. Struggle to express desires."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "self control",
+            "Secondary": "inferiority"
+          }
+        }
+      }
+    }
+  ]
+}{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 12600,
+      "analysis": {
+        "TemperValue": {
+          "value": 19.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Repressed or stressful desires and dreams.",
+            "Secondary": "Communication difficulties. Struggle to express desires."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "self control",
+            "Secondary": "inferiority"
+          }
+        }
+      }
+    }
+  ]
+}{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 12600,
+      "analysis": {
+        "TemperValue": {
+          "value": 18.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Repressed or stressful desires and dreams.",
+            "Secondary": "Communication difficulties. Struggle to express desires."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "self control",
+            "Secondary": "inferiority"
+          }
+        }
+      }
+    }
+  ]
+}

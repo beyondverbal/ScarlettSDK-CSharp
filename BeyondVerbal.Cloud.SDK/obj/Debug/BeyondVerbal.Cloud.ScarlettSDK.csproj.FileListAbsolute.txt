@@ -1,0 +1,13 @@
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\bin\Debug\BeyondVerbal.Cloud.ScarlettSDK.dll.config
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\bin\Debug\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\bin\Debug\BeyondVerbal.Cloud.ScarlettSDK.pdb
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\bin\Debug\Newtonsoft.Json.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\bin\Debug\Newtonsoft.Json.xml
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\obj\Debug\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\obj\Debug\BeyondVerbal.Cloud.ScarlettSDK.pdb
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\package\BeyondVerbal.Cloud.ScarlettSDK.dll.config
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\package\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\package\BeyondVerbal.Cloud.ScarlettSDK.pdb
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\package\Newtonsoft.Json.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\package\Newtonsoft.Json.xml
+C:\Work\APIServer\BeyondVerbal.Cloud.ScarlettSDK\obj\Debug\BeyondVerbal.Cloud.ScarlettSDK.csprojResolveAssemblyReference.cache

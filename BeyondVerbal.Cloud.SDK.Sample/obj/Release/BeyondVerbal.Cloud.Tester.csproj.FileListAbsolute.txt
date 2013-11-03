@@ -1,0 +1,12 @@
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\beautiful_life-ace_of_base.wav
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\female.wav
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\BeyondVerbal.Cloud.Tester.exe.config
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\BeyondVerbal.Cloud.Tester.exe
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\BeyondVerbal.Cloud.Tester.pdb
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\Newtonsoft.Json.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\BeyondVerbal.Cloud.ScarlettSDK.pdb
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\bin\Release\Newtonsoft.Json.xml
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\obj\Release\BeyondVerbal.Cloud.Tester.csprojResolveAssemblyReference.cache
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\obj\Release\BeyondVerbal.Cloud.Tester.exe
+C:\Work\APIServer\BeyondVerbal.Cloud.Tester\obj\Release\BeyondVerbal.Cloud.Tester.pdb

@@ -1,0 +1,391 @@
+{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 15625,
+      "analysis": {
+        "TemperValue": {
+          "value": 75.0
+        },
+        "ComposureMeter": {
+          "value": 32.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Aggressive communication. Possibly concealed violence.",
+            "Secondary": "Emotional suppression on the verge of eruption."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "hostility",
+            "Secondary": "hostility"
+          }
+        }
+      }
+    },
+    {
+      "offset": 16025,
+      "duration": 37500,
+      "analysis": {
+        "TemperValue": {
+          "value": 13.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Distress combined with an urge to act to change the situation. ",
+            "Secondary": "Coping with painful problems. Possibly seeking personal contact. Longing."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "unhappiness",
+            "Secondary": "loneliness"
+          }
+        }
+      }
+    },
+    {
+      "offset": 53550,
+      "duration": 23425,
+      "analysis": {
+        "TemperValue": {
+          "value": 69.0
+        },
+        "ComposureMeter": {
+          "value": 27.0
+        },
+        "TemperMeter": {
+          "value": "MEDIUM"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Happiness. Satisfaction. Love.",
+            "Secondary": "Vitality. Focused on passion and/or creativity. \"Good Energies\"."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "happiness",
+            "Secondary": "happiness"
+          }
+        }
+      }
+    },
+    {
+      "offset": 77000,
+      "duration": 17375,
+      "analysis": {
+        "TemperValue": {
+          "value": 84.0
+        },
+        "ComposureMeter": {
+          "value": 39.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Loss of inhibitions, aggressiveness.",
+            "Secondary": "Assertive authority. Giving orders.."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "hostility",
+            "Secondary": "dominance"
+          }
+        }
+      }
+    },
+    {
+      "offset": 94400,
+      "duration": 19225,
+      "analysis": {
+        "TemperValue": {
+          "value": 78.0
+        },
+        "ComposureMeter": {
+          "value": 29.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Vocal emotional outburst, possibly  laughter",
+            "Secondary": "Feelings of superiority and aversion. Domineering. "
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "excitement",
+            "Secondary": "dominance"
+          }
+        }
+      }
+    },
+    {
+      "offset": 113650,
+      "duration": 13525,
+      "analysis": {
+        "TemperValue": {
+          "value": 83.0
+        },
+        "ComposureMeter": {
+          "value": 40.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Vengeance, hatred, unforgiving. Anger.",
+            "Secondary": "Conflict between emotional response and an attempt to appear in control."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "hostility",
+            "Secondary": "self control"
+          }
+        }
+      }
+    },
+    {
+      "offset": 127200,
+      "duration": 17650,
+      "analysis": {
+        "TemperValue": {
+          "value": 84.0
+        },
+        "ComposureMeter": {
+          "value": 37.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Restrained contempt and ridicule.",
+            "Secondary": "Impulsiveness born out of anger or jealousy."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "disliking",
+            "Secondary": "anger"
+          }
+        }
+      }
+    }
+  ]
+}{
+  "sessionStatus": "Processing",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 15625,
+      "analysis": {
+        "TemperValue": {
+          "value": 75.0
+        },
+        "ComposureMeter": {
+          "value": 32.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Aggressive communication. Possibly concealed violence.",
+            "Secondary": "Emotional suppression on the verge of eruption."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "hostility",
+            "Secondary": "hostility"
+          }
+        }
+      }
+    },
+    {
+      "offset": 16025,
+      "duration": 37500,
+      "analysis": {
+        "TemperValue": {
+          "value": 14.0
+        },
+        "ComposureMeter": {
+          "value": 4.0
+        },
+        "TemperMeter": {
+          "value": "LOW"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Distress combined with an urge to act to change the situation. ",
+            "Secondary": "Coping with painful problems. Possibly seeking personal contact. Longing."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "unhappiness",
+            "Secondary": "loneliness"
+          }
+        }
+      }
+    }
+  ]
+}{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 53550,
+      "duration": 23425,
+      "analysis": {
+        "TemperValue": {
+          "value": 69.0
+        },
+        "ComposureMeter": {
+          "value": 27.0
+        },
+        "TemperMeter": {
+          "value": "MEDIUM"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Happiness. Satisfaction. Love.",
+            "Secondary": "Vitality. Focused on passion and/or creativity. \"Good Energies\"."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "happiness",
+            "Secondary": "happiness"
+          }
+        }
+      }
+    },
+    {
+      "offset": 77000,
+      "duration": 17375,
+      "analysis": {
+        "TemperValue": {
+          "value": 86.0
+        },
+        "ComposureMeter": {
+          "value": 39.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Loss of inhibitions, aggressiveness.",
+            "Secondary": "Assertive authority. Giving orders.."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "hostility",
+            "Secondary": "dominance"
+          }
+        }
+      }
+    },
+    {
+      "offset": 94400,
+      "duration": 19225,
+      "analysis": {
+        "TemperValue": {
+          "value": 84.0
+        },
+        "ComposureMeter": {
+          "value": 29.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Vocal emotional outburst, possibly  laughter",
+            "Secondary": "Feelings of superiority and aversion. Domineering. "
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "excitement",
+            "Secondary": "dominance"
+          }
+        }
+      }
+    },
+    {
+      "offset": 113650,
+      "duration": 13525,
+      "analysis": {
+        "TemperValue": {
+          "value": 83.0
+        },
+        "ComposureMeter": {
+          "value": 40.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Vengeance, hatred, unforgiving. Anger.",
+            "Secondary": "Conflict between emotional response and an attempt to appear in control."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "hostility",
+            "Secondary": "self control"
+          }
+        }
+      }
+    },
+    {
+      "offset": 127200,
+      "duration": 17650,
+      "analysis": {
+        "TemperValue": {
+          "value": 80.0
+        },
+        "ComposureMeter": {
+          "value": 37.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Restrained contempt and ridicule.",
+            "Secondary": "Impulsiveness born out of anger or jealousy."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "disliking",
+            "Secondary": "anger"
+          }
+        }
+      }
+    }
+  ]
+}

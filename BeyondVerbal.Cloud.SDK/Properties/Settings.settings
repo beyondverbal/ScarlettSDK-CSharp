@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BeyondVerbal.Cloud.ScarlettSDK.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APIStartUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://beta.beyondverbal.com/v1/recording/start?api_key={APIKey}</Value>
+    </Setting>
+    <Setting Name="APIKey" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AnalysisPollingInterval" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:05</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

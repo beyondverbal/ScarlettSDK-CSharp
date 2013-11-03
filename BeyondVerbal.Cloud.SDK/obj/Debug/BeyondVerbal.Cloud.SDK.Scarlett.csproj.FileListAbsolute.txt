@@ -1,0 +1,9 @@
+C:\Work\APIServer\BeyondVerbal.Cloud.SDK\BeyondVerbal.Cloud.ScarlettSDK\obj\Debug\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.SDK\BeyondVerbal.Cloud.ScarlettSDK\obj\Debug\BeyondVerbal.Cloud.ScarlettSDK.pdb
+C:\Work\APIServer\Binaries\BeyondVerbal.Cloud.ScarlettSDK.dll.config
+C:\Work\APIServer\Binaries\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\Binaries\BeyondVerbal.Cloud.ScarlettSDK.pdb
+C:\Work\APIServer\BeyondVerbal.Cloud.SDK\BeyondVerbal.Cloud.ScarlettSDK\obj\Debug\BeyondVerbal.Cloud.SDK.Scarlett.csprojResolveAssemblyReference.cache
+C:\Work\APIServer\BeyondVerbal.Cloud.SDK\Binaries\BeyondVerbal.Cloud.ScarlettSDK.dll.config
+C:\Work\APIServer\BeyondVerbal.Cloud.SDK\Binaries\BeyondVerbal.Cloud.ScarlettSDK.dll
+C:\Work\APIServer\BeyondVerbal.Cloud.SDK\Binaries\BeyondVerbal.Cloud.ScarlettSDK.pdb

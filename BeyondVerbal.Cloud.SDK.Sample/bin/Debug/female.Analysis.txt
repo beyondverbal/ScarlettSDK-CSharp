@@ -1,0 +1,86 @@
+{
+  "sessionStatus": "Done",
+  "analysisSegments": [
+    {
+      "offset": 0,
+      "duration": 14925,
+      "analysis": {
+        "TemperValue": {
+          "value": 76.0
+        },
+        "ComposureMeter": {
+          "value": 30.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Vocal emotional outburst, possibly  laughter",
+            "Secondary": "Feelings of anger and/or other uncontrollable urges"
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "excitement",
+            "Secondary": "anger"
+          }
+        }
+      }
+    },
+    {
+      "offset": 14950,
+      "duration": 11200,
+      "analysis": {
+        "TemperValue": {
+          "value": 75.0
+        },
+        "ComposureMeter": {
+          "value": 28.0
+        },
+        "TemperMeter": {
+          "value": "HIGH"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Arrogance. Desire to impose an opinion from a sense of urgency. Aggression.",
+            "Secondary": "Bitterness. Anger and unwillingness to forgive. "
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "dominance",
+            "Secondary": "anger"
+          }
+        }
+      }
+    },
+    {
+      "offset": 26175,
+      "duration": 11875,
+      "analysis": {
+        "TemperValue": {
+          "value": 68.0
+        },
+        "ComposureMeter": {
+          "value": 28.0
+        },
+        "TemperMeter": {
+          "value": "MEDIUM"
+        },
+        "CompositMood": {
+          "value": {
+            "Primary": "Friendly closeness. “Salesperson”. ",
+            "Secondary": "Restrained enthusiasm. Self-control. Conflict between enthusiasm and pragmatism."
+          }
+        },
+        "MoodGroup": {
+          "value": {
+            "Primary": "friendliness",
+            "Secondary": "self control"
+          }
+        }
+      }
+    }
+  ]
+}
